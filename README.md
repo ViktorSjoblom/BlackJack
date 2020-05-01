@@ -1,3 +1,3 @@
-### BlackJack
+# BlackJack
 
-## Black Jack console application made in Rider. Enjoy!
+### Black Jack console application made in Rider. Enjoy!
