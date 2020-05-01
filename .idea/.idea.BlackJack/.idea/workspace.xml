@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a339148-5da8-43fc-a735-290395f07bfd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BlackJack" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BlackJack/Players.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BlackJack/BlackJack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BlackJack/BlackJackRules.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BlackJack/Card.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BlackJack/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BlackJack/BlackJack.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/Member.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/Players.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/BlackJackRules.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/Card.cs" />
+        <option value="$PROJECT_DIR$/BlackJack/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bALxkSWSls8bOAod98UWdh93CU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BlackJack" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BlackJack/bin/Debug/netcoreapp3.1/BlackJack.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BlackJack/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="1" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BlackJack/BlackJack.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a339148-5da8-43fc-a735-290395f07bfd" name="Default Changelist" comment="" />
+      <created>1588070199768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588070199768</updated>
+      <workItem from="1588070201270" duration="3939000" />
+      <workItem from="1588333328962" duration="2121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="369" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588073231803">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="369" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.801@0.23.1440.801" timestamp="1588073231803" />
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom" timestamp="1588335546664">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1588335546664" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1588332905733" />
+    <state width="1398" height="201" key="GridCell.Tab.0.center" timestamp="1588335546663">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1588335546663" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1588332905732" />
+    <state width="1398" height="201" key="GridCell.Tab.0.left" timestamp="1588335546663">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1588335546663" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1588332905732" />
+    <state width="1398" height="201" key="GridCell.Tab.0.right" timestamp="1588335546664">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="201" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1588335546664" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1588332905733" />
+    <state x="783" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588332882500">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="783" y="145" width="672" height="678" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1588332882500" />
+  </component>
+</project>
